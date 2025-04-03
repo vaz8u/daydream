@@ -1,0 +1,11 @@
+{
+  "name": "daydream",
+  "version": "1.0.0",
+  "description": "severed work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vaz",
+  "license": "ISC"
+}
